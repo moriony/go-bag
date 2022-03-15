@@ -1,6 +1,6 @@
 # Bag
 
-Container for concurrent access to scalar data
+Scalar data container 
 
 ## Example
 
